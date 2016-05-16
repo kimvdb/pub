@@ -11,7 +11,7 @@
   color: #ffffff;
 }
 #content1-14 P {
-  text-align: center;
+  text-align: left;
 }
 #content1-14 H2 {
   text-align: center;
@@ -36,6 +36,9 @@
 }
 #content1-28 DIV {
   text-align: center;
+}
+#content1-28 P {
+  text-align: left;
 }
 #ext_menu-36 .mbr-brand__name {
   font-size: 16px;
