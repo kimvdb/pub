@@ -1,0 +1,717 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.10",
+    "versionPublish": "2.10",
+    "name": "My Site",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "favicon": "",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Kimberly/Desktop/pub",
+    "path": "file:///C:/Users/Kimberly/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-04-10_185435",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77106520-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+  },
+  "pages": {
+    "about.html": {
+      "settings": {
+        "title": "About",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wit.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H2": {
+              "text-align": "center"
+            },
+            "H1": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-14",
+          "text": "<h1>About</h1><p>I'm Kimberly Vanderbeken and I'm studying \"glass and ceramics\" in Sint-Lucas campus Ghent, &nbsp;located in Belgium. Currently I'm in the second bachelor year. </p><p></p><p>Clay is my preffered material.  You can feel the clay and know what it is going to do, how it is going to behave. As with glass, you learn to understand and forsee it's behaviour. These courses are the only ones where the physical connection and feelings between the student and the materials are at its maximum. <br>That is the reason why I chose for this subject.</p><p></p>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-51",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adjust-1-2048x1356-88.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-44",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Kimberly Vanderbeken.&nbsp;"
+        }
+      ]
+    },
+    "about work.html": {
+      "settings": {
+        "title": "About work ",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-24",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wit.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-28",
+          "text": "<p></p><h1>About work</h1><p></p><p><br></p><p>In my first year I had no clue what I was going to do, which direction I would choose.<br>I was working on a lot of different projects, all of them at the same time. This had as result that I wasn't going search for details nor going deeper in to research.&nbsp;</p><p>This year it is a total difference. Now I'm making organic shapes which are looking like they are going to burst at any time. I want to awaken the feeling of corporeality and safety. My goal is to make shapes that are as tenced as possible and that you don't have a top- or bottomside, works without flat sides. I'm trying to let lose of all control and let the shapes arise from the material itself. Then  I started to add lines. At first sightthe lines where leaning towards a decorative value and this is not my intention. I wanted to add movement into my shapes. Later I started to make cuttings in the shapes that are resulting into \"injuries\" of the objects. Those injuries are emphasizing the corporeality of the shapes.</p><p>After a while I started experimenting with another material. I started using nylon stockings together with clay and also as stand-alone object. This material gives me the opportunity to emphasize the corporeality of shapings. These objects are interpreted as fat cells, cysts or foetuses. I'm trying to make clay objects out of the nylon ones, as well as letting them live next to each other.</p><p><br></p><p></p>"
+        },
+        {
+          "_name": "buttons1",
+          "_anchor": "buttons1-23",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"about work.html#content1-15\" data-toolbar=\"-mbrBtnMove\">Organic Shapes</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"about work.html#content1-20\" data-toolbar=\"-mbrBtnMove\">Organic shapes with injuries</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"about work.html#content1-16\" data-toolbar=\"-mbrBtnMove\">Nylon objects</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"about work.html#content1-18\" data-toolbar=\"-mbrBtnMove\">Relatives of the nylon objects</a>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-15",
+          "text": "<h3>Organic Shapes</h3>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0993-1024-530x800-37-530x800-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0993-1024-530x800-37.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0995-1024-530x800-15-530x800-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0995-1024-530x800-15.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0962-1024-800x530-80-800x530-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0962-1024-800x530-80.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0976-1024-530x800-36-530x800-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0976-1024-530x800-36.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0967-1024-800x530-39-800x530-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0967-1024-800x530-39.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0990-1024-530x800-44-530x800-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0990-1024-530x800-44.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0985-1024-530x800-69-530x800-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0985-1024-530x800-69.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0982-1024-530x800-69-530x800-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0982-1024-530x800-69.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0974-1024-530x800-94-530x800-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0974-1024-530x800-94.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-57",
+          "articleLayout": false
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-20",
+          "text": "<h3>Organic shapes with injuries</h3>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0997-1024-530x800-18-530x800-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0997-1024-530x800-18.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1000-1024-800x530-74-800x530-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1000-1024-800x530-74.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1007-1024-530x800-17-530x800-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1007-1024-530x800-17.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1022-1024-800x530-73-800x530-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1022-1024-800x530-73.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1041-1024-800x530-24-800x530-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1041-1024-800x530-24.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1043-1024-800x530-48-800x530-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1043-1024-800x530-48.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-22",
+          "articleLayout": true
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-44",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Kimberly Vanderbeken.&nbsp;"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-16",
+          "text": "<h3>Nylon Objects&nbsp;</h3>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1014-1024-800x530-97-800x530-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1014-1024-800x530-97.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1015-1024-800x530-87-800x530-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1015-1024-800x530-87.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1020-1024-800x530-96-800x530-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1020-1024-800x530-96.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1019-1024-800x530-48-800x530-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1019-1024-800x530-48.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1024-1024-800x530-41-800x530-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1024-1024-800x530-41.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1026-1024-800x530-74-800x530-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1026-1024-800x530-74.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1029-1024-800x530-75-800x530-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1029-1024-800x530-75.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1036-1024-800x530-77-800x530-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1036-1024-800x530-77.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-17",
+          "articleLayout": true
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-18",
+          "text": "<h3>Relatives of nylon objects</h3>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1009-1024-530x800-82-530x800-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1009-1024-530x800-82.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1002-1024-800x530-89-800x530-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1002-1024-800x530-89.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1004-1024-800x530-83-800x530-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1004-1024-800x530-83.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1011-1024-800x530-62-800x530-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1011-1024-800x530-62.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1040-1024-800x530-47-800x530-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1040-1024-800x530-47.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1047-1024-800x530-97-800x530-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1047-1024-800x530-97.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-19",
+          "articleLayout": true
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "Contact",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-36",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wit.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-45",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT&nbsp;",
+          "form": {
+            "action": "kimberlyvanderbeken95@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone number"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+        },
+        {
+          "_name": "contacts2",
+          "_anchor": "contacts2-46",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "address": "Alexianenplein 1, 9000 Gent, Belgium",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "info": ""
+          },
+          "coord": [
+            51.05221,
+            3.716952900000024
+          ],
+          "text1": "<b>ADRESS WORK PLACE</b><br>\nAlexianenplein 1, <br>9000 Gent, Belgium<br><br><br><br>Copyright (c) 2016<br>Kimberly Vanderbeken<br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\"></a><br>Dit werk valt onder een <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\">Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal-licentie</a>.<br>",
+          "text2": "CONTACTS<div>Email: kimberlyvanderbeken95@gmail.com</div><div>You can find me on facebook and pinterest</div>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wit.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/-dsc0855-1000x662-30.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Kimberly Vanderbeken",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/-dsc0844-1500x993-63.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Glass &amp; Ceramics",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-12",
+          "articleLayout": false
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-44",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Kimberly Vanderbeken.&nbsp;"
+        }
+      ]
+    }
+  }
+}
