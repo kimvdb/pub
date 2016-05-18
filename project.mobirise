@@ -66,7 +66,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutwork.html\">ABOUT WORK</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -192,7 +192,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutwork.html\">ABOUT WORK</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -209,8 +209,8 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-dsc0855-1000x662-88.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/-dsc0855-1000x662-23.jpg",
                 "contentAlign": "center",
                 "overlay": false,
                 "showTitle": true,
@@ -221,8 +221,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/-dsc0844-1500x993-63.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/-dsc0844-1000x662-95.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Glass &amp; Ceramics",
@@ -308,7 +308,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutwork.html\">ABOUT WORK</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -338,7 +338,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/adjust-1-2048x1356-88.jpg",
+              "src": "@PROJECT_PATH@/assets/images/adjust-1-2048x1356-72.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -422,7 +422,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about work.html\">ABOUT WORK</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">ABOUT ME<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutwork.html\">ABOUT WORK</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
         },
         {
@@ -459,56 +459,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0993-1024-530x800-37-530x800-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0993-1024-530x800-37.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0962-1024-800x530-61-800x530-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0962-1024-800x530-61.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0995-1024-530x800-15-530x800-20.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0995-1024-530x800-15.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0967-1024-800x530-28-800x530-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0967-1024-800x530-28.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0962-1024-800x530-80-800x530-37.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0962-1024-800x530-80.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0979-1024-800x530-48-800x530-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0979-1024-800x530-48.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0976-1024-530x800-36-530x800-77.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0976-1024-530x800-36.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0981-1024-800x530-66-800x530-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0981-1024-800x530-66.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0967-1024-800x530-39-800x530-79.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0967-1024-800x530-39.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0985-1024-530x800-30-530x800-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0985-1024-530x800-30.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0990-1024-530x800-44-530x800-96.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0990-1024-530x800-44.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0990-1024-530x800-5-530x800-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0990-1024-530x800-5.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0985-1024-530x800-69-530x800-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0985-1024-530x800-69.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0993-1024-530x800-52-530x800-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0993-1024-530x800-52.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0982-1024-530x800-69-530x800-95.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0982-1024-530x800-69.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0974-1024-530x800-94-530x800-58.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0974-1024-530x800-94.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0995-1024-530x800-10-530x800-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0995-1024-530x800-10.jpg",
                 "active": true
               }
             ],
@@ -532,38 +526,32 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0997-1024-530x800-18-530x800-21.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0997-1024-530x800-18.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc0997-1024-530x800-1-530x800-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc0997-1024-530x800-1.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1000-1024-800x530-74-800x530-86.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1000-1024-800x530-74.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1007-1024-530x800-59-530x800-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1007-1024-530x800-59.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1007-1024-530x800-17-530x800-84.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1007-1024-530x800-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1000-1024-800x530-20-800x530-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1000-1024-800x530-20.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1022-1024-800x530-73-800x530-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1022-1024-800x530-73.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1022-1024-800x530-21-800x530-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1022-1024-800x530-21.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1041-1024-800x530-24-800x530-41.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1041-1024-800x530-24.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1043-1024-800x530-48-800x530-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1043-1024-800x530-48.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1043-1024-800x530-80-800x530-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1043-1024-800x530-80.jpg",
                 "active": true
               }
             ],
@@ -603,51 +591,57 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1014-1024-800x530-97-800x530-22.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1014-1024-800x530-97.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1014-1024-800x530-92-800x530-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1014-1024-800x530-92.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1015-1024-800x530-87-800x530-11.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1015-1024-800x530-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1015-1024-800x530-44-800x530-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1015-1024-800x530-44.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1020-1024-800x530-96-800x530-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1020-1024-800x530-96.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1019-1024-800x530-46-800x530-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1019-1024-800x530-46.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1035-1024-530x800-89-530x800-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1035-1024-530x800-89.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1020-1024-800x530-55-800x530-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1020-1024-800x530-55.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1024-1024-800x530-60-800x530-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1024-1024-800x530-60.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1026-1024-800x530-99-800x530-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1026-1024-800x530-99.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1029-1024-800x530-41-800x530-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1029-1024-800x530-41.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1036-1024-800x530-54-800x530-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1036-1024-800x530-54.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1019-1024-800x530-48-800x530-14.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1019-1024-800x530-48.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1024-1024-800x530-41-800x530-73.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1024-1024-800x530-41.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1026-1024-800x530-74-800x530-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1026-1024-800x530-74.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1029-1024-800x530-75-800x530-86.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1029-1024-800x530-75.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1036-1024-800x530-77-800x530-4.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1036-1024-800x530-77.jpg",
-                "active": false
               }
             ],
             "showText": false,
@@ -669,39 +663,39 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1009-1024-530x800-82-530x800-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1009-1024-530x800-82.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1009-1024-530x800-44-530x800-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1009-1024-530x800-44.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1002-1024-800x530-89-800x530-37.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1002-1024-800x530-89.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1002-1024-800x530-73-800x530-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1002-1024-800x530-73.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1004-1024-800x530-28-800x530-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1004-1024-800x530-28.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1011-1024-800x530-2-800x530-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1011-1024-800x530-2.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1040-1024-800x530-79-800x530-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1040-1024-800x530-79.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1047-1024-800x530-22-800x530-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1047-1024-800x530-22.jpg",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1004-1024-800x530-83-800x530-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1004-1024-800x530-83.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1011-1024-800x530-62-800x530-68.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1011-1024-800x530-62.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1040-1024-800x530-47-800x530-90.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1040-1024-800x530-47.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1047-1024-800x530-97-800x530-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1047-1024-800x530-97.jpg",
-                "active": false
               }
             ],
             "showText": false,
